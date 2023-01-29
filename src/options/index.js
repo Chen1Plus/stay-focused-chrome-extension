@@ -1,4 +1,4 @@
-import "./assets/normalize.css";
+import "./scss/bootstrap_grid_reboot.scss";
 import "./scss/options.scss";
 
 var blacklist_array = [];
