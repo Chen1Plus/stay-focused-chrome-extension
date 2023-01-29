@@ -12,7 +12,7 @@ var mode_config = {
     aggregateTimeout: 500,
     ignored: ["**/node_modules", "**/dist"],
   },
-  stats: "minimal"
+  stats: "errors-warnings"
 };
 
 // common configuration
