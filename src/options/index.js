@@ -1,5 +1,6 @@
-import "./scss/bootstrap_grid_reboot.scss";
+import "./scss/bootstrap-custom.scss";
 import "./scss/options.scss";
+import "./js/style-third-party";
 
 var blacklist_array = [];
 var whitelist_array = [];
@@ -12,7 +13,9 @@ function show_list(k) {
   if (k == "black") {
     if (blacklist_array.length == 0) {
       blacklist_delete.style.display = "none";
-      blacklist_html.innerHTML = `<span class='row center'>現在黑名單空白哦</span>`;
+      blacklist_html.innerHTML = `
+        <div class="list-item text-center py-1">現在黑名單空白哦</div>
+        <div class="py-2"></div>`;
     } else {
       blacklist_delete.style.display = "";
       blacklist_html.innerHTML = "";
@@ -20,17 +23,19 @@ function show_list(k) {
         const value = blacklist_array[i];
         blacklist_html.insertAdjacentHTML(
           "afterbegin",
-          `<label class="item">
+          `<label class="list-item list-item-check px-3 py-1">
           <input type="checkbox" id="b${i}" class="check" value="${value}"/>
           <span class="list_text">${value}</span>
-        </label>`
+          </label>`
         );
       }
     }
   } else if (k == "white") {
     if (whitelist_array.length == 0) {
       whitelist_delete.style.display = "none";
-      whitelist_html.innerHTML = `<span class='row center'>現在白名單空白哦</span>`;
+      whitelist_html.innerHTML = `
+        <div class="list-item text-center py-1">現在白名單空白哦</div>
+        <div class="py-2"></div>`;
     } else {
       whitelist_delete.style.display = "";
       whitelist_html.innerHTML = "";
@@ -38,10 +43,10 @@ function show_list(k) {
         const value = whitelist_array[i];
         whitelist_html.insertAdjacentHTML(
           "afterbegin",
-          `<label class="item">
+          `<label class="list-item list-item-check px-3 py-1">
           <input type="checkbox" id="w${i}" class="check" value="${value}"/>
           <span class="list_text">${value}</span>
-        </label>`
+          </label>`
         );
       }
     }
