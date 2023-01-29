@@ -3,10 +3,20 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyPlugin = require("copy-webpack-plugin");
 
-// common configuration
-var config = {
+// mode configuration
+var mode_config = {
   mode: "development",
   devtool: "inline-source-map",
+  watch: true,
+  watchOptions: {
+    aggregateTimeout: 500,
+    ignored: ["**/node_modules", "**/dist"],
+  },
+  stats: "minimal"
+};
+
+// common configuration
+var config = Object.assign({}, mode_config, {
   module: {
     rules: [
       {
@@ -29,7 +39,7 @@ var config = {
       },
     ],
   },
-};
+});
 
 // configuration for background & static files (ex: manifest.json) in public folder
 var background_config = Object.assign({}, config, {

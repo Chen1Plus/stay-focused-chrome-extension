@@ -3,8 +3,11 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyPlugin = require("copy-webpack-plugin");
 
+// mode configuration
+var mode_config = {};
+
 // common configuration
-var config = {
+var config = Object.assign({}, mode_config, {
   module: {
     rules: [
       {
@@ -27,7 +30,7 @@ var config = {
       },
     ],
   },
-};
+});
 
 // configuration for background & static files (ex: manifest.json) in public folder
 var background_config = Object.assign({}, config, {

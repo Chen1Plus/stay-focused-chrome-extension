@@ -4,7 +4,7 @@
   "description": "A tool helps you stay focused. It will stop you opening entertaining websites.",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
-    "dev": "webpack --watch --config webpack.dev.js"
+    "dev": "webpack --config webpack.dev.js"
   },
   "keywords": [],
   "author": "Chen1Plus",

@@ -1,43 +1,50 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>設定 - Stay Focused</title>
-  </head>
-  <body>
-    <header>
-      <h1 class="title h1">Stay Focused - 設定</h1>
-    </header>
-    <div id="body">
-      <div id="body_area">
-        <h3 class="title h3">新增網址</h3>
-        <div class="row center">
-          <input type="text" id="add_url" />
-          <button id="block_it" class="button">封鎖</button>
-          <button id="allow_it" class="button">允許</button>
-          <button id="update_list" class="button">儲存更改</button>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>設定 - Stay Focused</title>
+  <!-- just for development -->
+  <link rel="stylesheet" href="../../dist/options/options.bundle.css">
+  <!-------------------------->
+</head>
+
+<body>
+  <div class=""></div>
+  <header>
+    <h1 class="title h1">Stay Focused - 設定</h1>
+  </header>
+  <div id="body">
+    <div id="body_area">
+      <h3 class="title h3">新增網址</h3>
+      <div class="row center">
+        <input type="text" id="add_url" />
+        <button id="block_it" class="button">封鎖</button>
+        <button id="allow_it" class="button">允許</button>
+        <button id="update_list" class="button">儲存更改</button>
+      </div>
+      <h3 class="title h3">黑名單</h3>
+      <div class="list">
+        <div class="area" id="blacklist_showed"></div>
+        <div class="row center" id="delete_b">
+          <button class="button delete" id="delete_from_blacklist">
+            刪除
+          </button>
         </div>
-        <h3 class="title h3">黑名單</h3>
-        <div class="list">
-          <div class="area" id="blacklist_showed"></div>
-          <div class="row center" id="delete_b">
-            <button class="button delete" id="delete_from_blacklist">
-              刪除
-            </button>
-          </div>
-        </div>
-        <h3 class="title h3">白名單</h3>
-        <div class="list">
-          <div class="area" id="whitelist_showed"></div>
-          <div class="row center" id="delete_w">
-            <button class="button delete" id="delete_from_whitelist">
-              刪除
-            </button>
-          </div>
+      </div>
+      <h3 class="title h3">白名單</h3>
+      <div class="list">
+        <div class="area" id="whitelist_showed"></div>
+        <div class="row center" id="delete_w">
+          <button class="button delete" id="delete_from_whitelist">
+            刪除
+          </button>
         </div>
       </div>
     </div>
-  </body>
+  </div>
+</body>
+
 </html>
