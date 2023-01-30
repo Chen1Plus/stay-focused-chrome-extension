@@ -15,6 +15,3 @@ Default blacklist cannot be changed by users; instead, custom blacklist and whit
 > - www.i-gamer.net
 > - minesweeper.online
 > - slither.io
-
-
-
