@@ -31,22 +31,26 @@ chrome.storage.sync.get(null, (items) => {
       html_modify.show_list("white", whitelist_array);
     });
 
-  document.getElementById("block_it").addEventListener("click", () => {
-    let url = document.getElementById("add_url").value;
-    if (array_operate.if_exist(url, blacklist_array)) {
-      alert("此網站已在名單中！！");
-    } else {
-      blacklist_array.push(url);
-      html_modify.show_list("black", blacklist_array);
+  document.getElementById("add_url_b").addEventListener("keyup", (event) => {
+    if (event.key === "Enter") {
+      let url = document.getElementById("add_url_b").value;
+      if (array_operate.if_exist(url, blacklist_array)) {
+        alert("此網站已在名單中！！");
+      } else {
+        blacklist_array.push(url);
+        html_modify.show_list("black", blacklist_array);
+      }
     }
   });
-  document.getElementById("allow_it").addEventListener("click", () => {
-    let url = document.getElementById("add_url").value;
-    if (array_operate.if_exist(url, whitelist_array)) {
-      alert("此網站已在名單中！！");
-    } else {
-      whitelist_array.push(url);
-      html_modify.show_list("white", whitelist_array);
+  document.getElementById("add_url_w").addEventListener("keyup", (event) => {
+    if (event.key === "Enter") {
+      let url = document.getElementById("add_url_w").value;
+      if (array_operate.if_exist(url, whitelist_array)) {
+        alert("此網站已在名單中！！");
+      } else {
+        whitelist_array.push(url);
+        html_modify.show_list("white", whitelist_array);
+      }
     }
   });
 

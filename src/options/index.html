@@ -1,66 +1,85 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>設定 - Stay Focused</title>
+    <!-- just for development -->
+    <link rel="stylesheet" href="../../dist/options/options.bundle.css" />
+    <!-------------------------->
+  </head>
 
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>設定 - Stay Focused</title>
-  <!-- just for development -->
-  <link rel="stylesheet" href="../../dist/options/options.bundle.css">
-  <!-------------------------->
-</head>
-
-<body>
-  <header class="container-fluid">
-    <div class="row justify-content-center py-3">
-      <h1 class="text-center font-xxl my-0-forced">
-        <strong>
-          Stay Focused - 設定
-        </strong>
-      </h1>
-    </div>
-  </header>
-  <div class="container-fluid">
-    <div class="row justify-content-center py-2">
-      <input id="add_url" type="text" placeholder="網址" class="col-auto py-1 px-2 mx-1" />
-      <button id="block_it" class="col-auto btn btn-gray py-1 px-3 mx-1">封鎖</button>
-      <button id="allow_it" class="col-auto btn btn-gray py-1 px-3 mx-1">允許</button>
-      <button id="update_list" class="col-auto btn btn-gray py-1 px-3 mx-1">儲存更改</button>
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-5">
-        <div class="list">
-          <h2 class="font-l text-center my-0-forced py-2">
-            <strong>
-              黑名單
-            </strong>
-          </h2>
-          <div class="px-4" id="blacklist_showed"></div>
-          <div class="row justify-content-center py-2" id="delete_b">
-            <button class="col-auto text-center btn btn-gray py-1 px-3" id="delete_from_blacklist">
-              刪除
-            </button>
+  <body>
+    <header class="container-fluid">
+      <div class="row justify-content-center py-lg-3 py-md-2">
+        <h1 class="text-center font-xxl my-0-forced">
+          <strong> Stay Focused - 設定 </strong>
+        </h1>
+      </div>
+    </header>
+    <div class="container-fluid">
+      <div class="row justify-content-center py-2">
+        <button
+          id="update_list"
+          class="col-auto btn btn-gray py-1 px-3 mx-1"
+          type="button"
+        >
+          儲存更改
+        </button>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-5">
+          <div class="list">
+            <div class="row justify-content-center">
+              <h2 class="font-l text-center my-0-forced py-2">
+                <strong> 黑名單 </strong>
+              </h2>
+            </div>
+            <div class="row justify-content-center py-1">
+              <div class="col-10 px-4">
+                <input id="add_url_b" type="text" class="full-width" />
+              </div>
+            </div>
+            <div class="row">
+              <div id="blacklist_showed"></div>
+            </div>
+            <div class="row justify-content-center py-2" id="delete_b">
+              <button
+                class="col-auto text-center btn btn-gray py-1 px-3"
+                id="delete_from_blacklist"
+                type="button"
+              >
+                刪除
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-5">
+          <div class="list">
+            <div class="row justify-content-center">
+              <h2 class="font-l text-center my-0-forced py-2">
+                <strong> 白名單 </strong>
+              </h2>
+            </div>
+            <div class="row justify-content-center py-1">
+              <div class="col-10 px-4">
+                <input id="add_url_w" type="text" class="full-width" />
+              </div>
+            </div>
+            <div id="whitelist_showed"></div>
+            <div class="row justify-content-center py-2" id="delete_w">
+              <button
+                class="col-auto text-center btn btn-gray py-1 px-3"
+                id="delete_from_whitelist"
+                type="button"
+              >
+                刪除
+              </button>
+            </div>
           </div>
         </div>
       </div>
-      <div class="col-5">
-        <div class="list">
-          <h2 class="font-l text-center my-0-forced py-2">
-            <strong>
-              白名單
-            </strong>
-          </h2>
-          <div class="px-4" id="whitelist_showed"></div>
-          <div class="row justify-content-center py-2" id="delete_w">
-            <button class="col-auto text-center btn btn-gray py-1 px-3" id="delete_from_whitelist">
-              刪除
-            </button>
-          </div>
-        </div>
-      </div>
     </div>
-  </div>
-</body>
-
+  </body>
 </html>
