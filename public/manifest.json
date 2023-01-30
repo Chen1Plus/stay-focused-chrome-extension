@@ -3,13 +3,18 @@
   "name": "Stay Focused",
   "description": "A tool helps you stay focused. It will stop you opening entertaining websites.",
   "version": "1.0.0",
+  "lang": "zh-Hant-TW",
   "icons": {
     "16": "./img/icon-16.png",
     "32": "./img/icon-32.png",
     "48": "./img/icon-48.png",
     "128": "./img/icon-128.png"
   },
-  "permissions": ["tabs", "activeTab", "storage"],
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage"
+  ],
   "action": {},
   "background": {
     "service_worker": "background.bundle.js"
