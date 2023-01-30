@@ -33,36 +33,19 @@ chrome.storage.sync.get(null, (items) => {
 
   document.getElementById("block_it").addEventListener("click", () => {
     let url = document.getElementById("add_url").value;
-    let check = 1;
-    for (let i = 0; i < blacklist_array.length; i++) {
-      if (url == blacklist_array[i]) {
-        alert("此網站已在名單中！！");
-        check = 0;
-        break;
-      }
-    }
-    if (check) {
+    if (array_operate.if_exist(url, blacklist_array)) {
+      alert("此網站已在名單中！！");
+    } else {
       blacklist_array.push(url);
-      console.log("this is blacklist:");
-      console.log(blacklist_array);
       html_modify.show_list("black", blacklist_array);
     }
   });
   document.getElementById("allow_it").addEventListener("click", () => {
     let url = document.getElementById("add_url").value;
-    let check = 1;
-    for (let i = 0; i < whitelist_array.length; i++) {
-      if (url == whitelist_array[i]) {
-        alert("此網站已在名單中！！");
-        check = 0;
-        break;
-      }
-    }
-    if (check) {
+    if (array_operate.if_exist(url, whitelist_array)) {
+      alert("此網站已在名單中！！");
+    } else {
       whitelist_array.push(url);
-      console.log("this is whitelist:");
-      console.log(whitelist_array);
-
       html_modify.show_list("white", whitelist_array);
     }
   });
