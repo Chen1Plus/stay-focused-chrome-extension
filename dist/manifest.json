@@ -9,7 +9,11 @@
     "48": "./img/icon-48.png",
     "128": "./img/icon-128.png"
   },
-  "permissions": ["tabs", "activeTab", "storage"],
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage"
+  ],
   "action": {},
   "background": {
     "service_worker": "background.bundle.js"
