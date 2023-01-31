@@ -1,6 +1,5 @@
 import "./scss/bootstrap-custom.scss";
 import "./scss/main.scss";
-import "./js/style-third-party";
 import * as html_modify from "./js/html_modify";
 import * as array_operate from "./js/array_operate";
 

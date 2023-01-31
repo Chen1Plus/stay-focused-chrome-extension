@@ -3,8 +3,8 @@ export { add_list_item, list_empty, clear_innerHTML, display, show_list };
 function add_list_item(list_id, item_id, value) {
   document.getElementById(list_id).insertAdjacentHTML(
     "afterbegin",
-    `<div class="px-4">
-      <label class="list-item list-item-check px-3 py-1">
+    `<div>
+      <label class="full-width list-item-check px-3 py-1">
         <input type="checkbox" id="${item_id}" class="checkbox-1 vertical-mid" value="${value}" />
         <span class="list_text px-2 vertical-mid">${value}</span>
       </label>
@@ -14,8 +14,10 @@ function add_list_item(list_id, item_id, value) {
 
 function list_empty(target_id) {
   document.getElementById(target_id).innerHTML = `
-    <div class="list-item text-center py-1">現在名單空白哦</div>
-    <div class="py-2"></div>`;
+    <div class="full-width text-center py-3">
+    The list is empty. <br>
+    Type a URL and press Enter.
+    </div>`;
 }
 
 function clear_innerHTML(target_id) {
