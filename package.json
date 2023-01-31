@@ -1,6 +1,6 @@
 {
   "name": "stay-focused",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tool helps you stay focused. It will stop you opening entertaining websites.",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
