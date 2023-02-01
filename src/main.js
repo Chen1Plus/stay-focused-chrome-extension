@@ -28,13 +28,6 @@ chrome.storage.sync.get(null, (items) => {
   } else {
     whitelist = items.whitelist;
   }
-  // log for debug
-  console.log("this is default blacklist:");
-  console.log(default_blacklist);
-  console.log("this is blacklist:");
-  console.log(blacklist);
-  console.log("this is whitelist:");
-  console.log(whitelist);
 
   // operate the sets of blacklists and the whitelist to get forbidden_url
   let all_blacklist = default_blacklist.concat(
