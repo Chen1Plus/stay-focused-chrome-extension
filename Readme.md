@@ -1,8 +1,8 @@
 # Stay Focused (Chrome Extension)
 
-It shuts down websites when it detects some URLs, which prevents you from being distracted by social media or gaming websites.
+It shuts down websites when it detects certain URLs, preventing you from being distracted by social media or gaming sites.
 
-Default blacklist cannot be changed by users; instead, custom blacklist and whitelist are available on the options page. Click the extension icon to navigate to the options page.
+The default blacklist cannot be changed by users; instead, custom blacklist and whitelist are available on the Options page. Click the extension icon to go to the options page.
 
 ## Notes
 
