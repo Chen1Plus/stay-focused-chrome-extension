@@ -3,7 +3,7 @@
 <!-- 由 Microsoft Visio, SVG Export 產生 main_logic.svg Page-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.72709in" height="8.06329in"
-		viewBox="0 0 484.35 580.557" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+		viewBox="0 0 484.35 580.557" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
 	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
@@ -14,27 +14,28 @@
 
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st2 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-stretch:semi-expanded}
-		.st3 {font-family:新細明體;font-size:1em}
-		.st4 {fill:#000000;font-family:Calibri;font-size:0.666664em}
-		.st5 {font-size:1em}
-		.st6 {fill:#ffffff}
-		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st8 {marker-end:url(#mrkr4-47);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.2376}
-		.st9 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.086161879895561}
-		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
-		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-stretch:semi-expanded}
+		.st4 {font-family:新細明體;font-size:1em}
+		.st5 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st6 {font-size:1em}
+		.st7 {fill:#ffffff}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {marker-end:url(#mrkr4-49);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.2376}
+		.st10 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.086161879895561}
+		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<defs id="Patterns_And_Gradients">
-		<linearGradient id="grad0-11" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+		<linearGradient id="grad0-13" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
 			<stop offset="0.01" stop-color="#ffffff" stop-opacity="1"/>
 			<stop offset="0.5" stop-color="#fefefe" stop-opacity="1"/>
 			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-15" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+		<linearGradient id="grad0-17" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
 			<stop offset="0" stop-color="#fefefe" stop-opacity="1"/>
 			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
 		</linearGradient>
@@ -43,12 +44,31 @@
 		<g id="lend4">
 			<path d="M 2 1 L -0 0 L 2 -1 L 2 1 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr4-47" class="st9" v:arrowType="4" v:arrowSize="2" v:setback="23.2121" refX="-23.212121212121" orient="auto"
-				markerUnits="strokeWidth" overflow="visible">
+		<marker id="mrkr4-49" class="st10" v:arrowType="4" v:arrowSize="2" v:setback="23.2121" refX="-23.212121212121"
+				orient="auto" markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-11.606060606061,-11.606060606061) "/>
 		</marker>
 	</defs>
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g v:mID="4" v:index="1" v:groupContext="backgroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+			<v:ud v:nameU="msvVisioCreated" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Visio 背景-1</title>
+		<v:pageProperties width="6.72709" height="8.06329" v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24"
+				v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape">
+			<title>單色</title>
+			<v:userDefs>
+				<v:ud v:nameU="Background" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvVisioCreated" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<rect x="0" y="1.13687E-13" width="484.35" height="580.557" class="st1"/>
+		</g>
+	</g>
+	<g v:mID="0" v:index="2" v:groupContext="foregroundPage">
 		<v:userDefs>
 			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
 		</v:userDefs>
@@ -58,7 +78,7 @@
 		<v:layer v:name="流程圖" v:index="0"/>
 		<v:layer v:name="連接器" v:index="1"/>
 		<v:layer v:name="容器" v:index="2"/>
-		<g id="group60-1" transform="translate(312.571,-211.678)" v:mID="60" v:groupContext="group" v:layerMember="2">
+		<g id="group60-3" transform="translate(312.571,-211.678)" v:mID="60" v:groupContext="group" v:layerMember="2">
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
@@ -92,7 +112,7 @@
 				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
 			</v:userDefs>
 			<title>一般.2</title>
-			<g id="group61-2" v:mID="61" v:groupContext="group" v:layerMember="2">
+			<g id="group61-4" v:mID="61" v:groupContext="group" v:layerMember="2">
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
 					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
@@ -117,7 +137,7 @@
 					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
 				</v:userDefs>
 				<title>工作表.61</title>
-				<g id="shape62-3" v:mID="62" v:groupContext="shape" v:layerMember="2" transform="translate(2.83465,2.83465)">
+				<g id="shape62-5" v:mID="62" v:groupContext="shape" v:layerMember="2" transform="translate(2.83465,2.83465)">
 					<title>工作表.62</title>
 					<v:userDefs>
 						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
@@ -136,11 +156,11 @@
 						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
 					</v:userDefs>
 				</g>
-				<g id="shape61-5" v:mID="61" v:groupContext="groupContent" v:layerMember="2">
-					<path d="M0 580.56 L70.3 580.56 L140.6 580.56 L140.6 240.4 L70.3 240.4 L0 240.4 L0 580.56 Z" class="st1"/>
+				<g id="shape61-7" v:mID="61" v:groupContext="groupContent" v:layerMember="2">
+					<path d="M0 580.56 L70.3 580.56 L140.6 580.56 L140.6 240.4 L70.3 240.4 L0 240.4 L0 580.56 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="group63-7" transform="translate(0,-314.646)" v:mID="63" v:groupContext="group" v:layerMember="2">
+			<g id="group63-9" transform="translate(0,-314.646)" v:mID="63" v:groupContext="group" v:layerMember="2">
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
 					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
@@ -187,7 +207,7 @@
 				</v:userDefs>
 				<title>工作表.63</title>
 				<desc>Get“forbidden_url”</desc>
-				<g id="shape64-8" v:mID="64" v:groupContext="shape" v:layerMember="2">
+				<g id="shape64-10" v:mID="64" v:groupContext="shape" v:layerMember="2">
 					<title>工作表.64</title>
 					<v:userDefs>
 						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
@@ -208,14 +228,14 @@
 						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0052083333333333):29"/>
 					</v:userDefs>
 				</g>
-				<g id="shape63-12" v:mID="63" v:groupContext="groupContent" v:layerMember="2">
+				<g id="shape63-14" v:mID="63" v:groupContext="groupContent" v:layerMember="2">
 					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
 					<v:textRect cx="70.2992" cy="567.801" width="140.6" height="25.5118"/>
-					<text x="6" y="571.58" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>Get<tspan class="st3">“</tspan>forbidden_url<tspan
-								class="st3">”</tspan></text>				</g>
+					<text x="6" y="571.58" class="st3" v:langID="1028"><v:paragraph/><v:tabList/>Get<tspan class="st4">“</tspan>forbidden_url<tspan
+								class="st4">”</tspan></text>				</g>
 			</g>
 		</g>
-		<g id="group70-19" transform="translate(312.571,-34.5126)" v:mID="70" v:groupContext="group" v:layerMember="2">
+		<g id="group70-21" transform="translate(312.571,-34.5126)" v:mID="70" v:groupContext="group" v:layerMember="2">
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
@@ -249,7 +269,7 @@
 				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
 			</v:userDefs>
 			<title>一般.2.70</title>
-			<g id="group71-20" v:mID="71" v:groupContext="group" v:layerMember="2">
+			<g id="group71-22" v:mID="71" v:groupContext="group" v:layerMember="2">
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
 					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
@@ -274,7 +294,7 @@
 					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
 				</v:userDefs>
 				<title>工作表.71</title>
-				<g id="shape72-21" v:mID="72" v:groupContext="shape" v:layerMember="2" transform="translate(2.83465,2.83465)">
+				<g id="shape72-23" v:mID="72" v:groupContext="shape" v:layerMember="2" transform="translate(2.83465,2.83465)">
 					<title>工作表.72</title>
 					<v:userDefs>
 						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
@@ -293,11 +313,11 @@
 						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
 					</v:userDefs>
 				</g>
-				<g id="shape71-23" v:mID="71" v:groupContext="groupContent" v:layerMember="2">
-					<path d="M0 580.56 L70.3 580.56 L140.6 580.56 L140.6 410.48 L70.3 410.48 L0 410.48 L0 580.56 Z" class="st1"/>
+				<g id="shape71-25" v:mID="71" v:groupContext="groupContent" v:layerMember="2">
+					<path d="M0 580.56 L70.3 580.56 L140.6 580.56 L140.6 410.48 L70.3 410.48 L0 410.48 L0 580.56 Z" class="st2"/>
 				</g>
 			</g>
-			<g id="group73-25" transform="translate(0,-144.567)" v:mID="73" v:groupContext="group" v:layerMember="2">
+			<g id="group73-27" transform="translate(0,-144.567)" v:mID="73" v:groupContext="group" v:layerMember="2">
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
 					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
@@ -344,7 +364,7 @@
 				</v:userDefs>
 				<title>工作表.73</title>
 				<desc>Get domain name</desc>
-				<g id="shape74-26" v:mID="74" v:groupContext="shape" v:layerMember="2">
+				<g id="shape74-28" v:mID="74" v:groupContext="shape" v:layerMember="2">
 					<title>工作表.74</title>
 					<v:userDefs>
 						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
@@ -365,13 +385,13 @@
 						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0052083333333333):29"/>
 					</v:userDefs>
 				</g>
-				<g id="shape73-29" v:mID="73" v:groupContext="groupContent" v:layerMember="2">
+				<g id="shape73-31" v:mID="73" v:groupContext="groupContent" v:layerMember="2">
 					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
 					<v:textRect cx="70.2992" cy="567.801" width="140.6" height="25.5118"/>
-					<text x="6" y="571.4" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>Get domain name</text>				</g>
+					<text x="6" y="571.4" class="st3" v:langID="1028"><v:paragraph/><v:tabList/>Get domain name</text>				</g>
 			</g>
 		</g>
-		<g id="shape37-33" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-390.261)">
+		<g id="shape37-35" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-390.261)">
 			<title>資料</title>
 			<desc>Input custom list</desc>
 			<v:custProps>
@@ -398,10 +418,10 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="35.4331" cy="559.297" width="47.25" height="42.5197"/>
-			<path d="M-10.63 580.56 L60.24 580.56 L81.5 538.04 L10.63 538.04 L-10.63 580.56 Z" class="st1"/>
-			<text x="13.87" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Input custom <tspan
-						x="30.69" dy="1.2em" class="st5">list</tspan></text>		</g>
-		<g id="shape39-37" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-475.3)">
+			<path d="M-10.63 580.56 L60.24 580.56 L81.5 538.04 L10.63 538.04 L-10.63 580.56 Z" class="st2"/>
+			<text x="13.87" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Input custom <tspan
+						x="30.69" dy="1.2em" class="st6">list</tspan></text>		</g>
+		<g id="shape39-39" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-475.3)">
 			<title>資料庫</title>
 			<desc>chrome.storage</desc>
 			<v:custProps>
@@ -429,16 +449,16 @@
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="35.4331" cy="559.297" width="60.24" height="42.5197"/>
 			<path d="M5.31 538.04 L70.87 538.04 A45.1772 45.1772 0 0 1 70.87 580.56 L5.31 580.56 A45.1772 45.1772 0 0 1 5.31 538.04
-						 Z" class="st6"/>
+						 Z" class="st7"/>
 			<path d="M5.31 538.04 L70.87 538.04 A45.1772 45.1772 0 0 1 70.87 580.56 L5.31 580.56 A45.1772 45.1772 0 0 1 5.31 538.04"
-					class="st7"/>
-			<path d="M70.87 538.04 A45.1772 45.1772 -180 0 0 70.87 580.56" class="st7"/>
-			<text x="9.74" y="561.7" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>chrome.storage</text>		</g>
-		<g id="shape42-42" v:mID="42" v:groupContext="shape" v:layerMember="1" transform="translate(375.752,-390.261)">
+					class="st8"/>
+			<path d="M70.87 538.04 A45.1772 45.1772 -180 0 0 70.87 580.56" class="st8"/>
+			<text x="9.74" y="561.7" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>chrome.storage</text>		</g>
+		<g id="shape42-44" v:mID="42" v:groupContext="shape" v:layerMember="1" transform="translate(375.752,-390.261)">
 			<title>動態連接器.42</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape41-48" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-305.221)">
+		<g id="shape41-50" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-305.221)">
 			<title>程序</title>
 			<desc>Combine lists</desc>
 			<v:custProps>
@@ -465,9 +485,9 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="35.4331" cy="559.297" width="70.87" height="42.5197"/>
-			<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st1"/>
-			<text x="13.68" y="561.7" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Combine lists</text>		</g>
-		<g id="shape43-51" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-220.182)">
+			<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st2"/>
+			<text x="13.68" y="561.7" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Combine lists</text>		</g>
+		<g id="shape43-53" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(347.405,-220.182)">
 			<title>資料.43</title>
 			<desc>Forbidden_url (array)</desc>
 			<v:custProps>
@@ -494,14 +514,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="35.4331" cy="559.297" width="47.25" height="42.5197"/>
-			<path d="M-10.63 580.56 L60.24 580.56 L81.5 538.04 L10.63 538.04 L-10.63 580.56 Z" class="st1"/>
-			<text x="14.68" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Forbidden_u<tspan
-						x="21.36" dy="1.2em" class="st5">rl (array)</tspan></text>		</g>
-		<g id="shape44-55" v:mID="44" v:groupContext="shape" v:layerMember="1" transform="translate(375.752,-305.221)">
+			<path d="M-10.63 580.56 L60.24 580.56 L81.5 538.04 L10.63 538.04 L-10.63 580.56 Z" class="st2"/>
+			<text x="14.68" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Forbidden_u<tspan
+						x="21.36" dy="1.2em" class="st6">rl (array)</tspan></text>		</g>
+		<g id="shape44-57" v:mID="44" v:groupContext="shape" v:layerMember="1" transform="translate(375.752,-305.221)">
 			<title>動態連接器.44</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape51-60" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(347.437,-128.056)">
+		<g id="shape51-62" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(347.437,-128.056)">
 			<title>資料.51</title>
 			<desc>Get URL of updated tab</desc>
 			<v:custProps>
@@ -528,14 +548,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="35.4331" cy="559.297" width="47.25" height="42.5197"/>
-			<path d="M-10.63 580.56 L60.24 580.56 L81.5 538.04 L10.63 538.04 L-10.63 580.56 Z" class="st1"/>
-			<text x="18.02" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get URL of <tspan
-						x="15.52" dy="1.2em" class="st5">updated tab</tspan></text>		</g>
-		<g id="shape55-64" v:mID="55" v:groupContext="shape" v:layerMember="1" transform="translate(375.783,-128.056)">
+			<path d="M-10.63 580.56 L60.24 580.56 L81.5 538.04 L10.63 538.04 L-10.63 580.56 Z" class="st2"/>
+			<text x="18.02" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get URL of <tspan
+						x="15.52" dy="1.2em" class="st6">updated tab</tspan></text>		</g>
+		<g id="shape55-66" v:mID="55" v:groupContext="shape" v:layerMember="1" transform="translate(375.783,-128.056)">
 			<title>動態連接器.55</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape54-69" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(347.437,-43.0166)">
+		<g id="shape54-71" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(347.437,-43.0166)">
 			<title>程序.54</title>
 			<desc>Get domain name</desc>
 			<v:custProps>
@@ -562,75 +582,75 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="35.4331" cy="559.297" width="70.87" height="42.5197"/>
-			<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st1"/>
-			<text x="6.23" y="561.7" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get domain name</text>		</g>
-		<g id="shape56-72" v:mID="56" v:groupContext="shape" v:layerMember="1" transform="translate(144.512,-374.67)">
+			<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st2"/>
+			<text x="6.23" y="561.7" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get domain name</text>		</g>
+		<g id="shape56-74" v:mID="56" v:groupContext="shape" v:layerMember="1" transform="translate(73.6457,-374.67)">
 			<title>動態連接器.56</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="14.1732" cy="538.037" width="40" height="17.6036"/>
-			<path d="M0 580.56 L21.26 580.56 L21.26 538.04 L-35.43 538.04 L-35.43 553.78" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="9.48185" y="533.237" width="9.38287" height="9.59985" class="st10"/>
-			<text x="9.48" y="540.44" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape58-79" v:mID="58" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-523.489)">
+			<v:textRect cx="-12.9799" cy="581.477" width="40" height="17.6036"/>
+			<path d="M0 580.56 L-31.13 580.56 L-31.13 538.04 L35.43 538.04 L35.43 553.78" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-17.6713" y="576.678" width="9.38287" height="9.59985" class="st11"/>
+			<text x="-17.67" y="583.88" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape58-81" v:mID="58" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-523.489)">
 			<title>動態連接器</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape59-84" v:mID="59" v:groupContext="shape" v:layerMember="1" transform="translate(375.752,-475.3)">
+		<g id="shape59-86" v:mID="59" v:groupContext="shape" v:layerMember="1" transform="translate(375.752,-475.3)">
 			<title>動態連接器.59</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape65-89" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-438.45)">
+		<g id="shape65-91" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-438.45)">
 			<title>動態連接器.65</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape67-94" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-353.41)">
+		<g id="shape67-96" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-353.41)">
 			<title>動態連接器.67</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="601.817" width="40" height="17.6036"/>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="1.5828" y="597.017" width="11.0078" height="9.59985" class="st10"/>
-			<text x="1.58" y="604.22" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape68-101" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(116.165,-268.371)">
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="1.5828" y="597.017" width="11.0078" height="9.59985" class="st11"/>
+			<text x="1.58" y="604.22" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape68-103" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-268.371)">
 			<title>動態連接器.68</title>
-			<path d="M-7.09 580.56 L-7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape69-106" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(69.6063,-183.332)">
+		<g id="shape69-108" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(69.6063,-183.332)">
 			<title>動態連接器.69</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-21.2598" cy="433.262" width="40" height="17.6036"/>
-			<path d="M0 580.56 L-21.26 580.56 L-21.26 346.7 L39.47 346.7 L39.47 362.44" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="-25.9512" y="428.462" width="9.38287" height="9.59985" class="st10"/>
-			<text x="-25.95" y="435.66" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape76-113" v:mID="76" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-140.812)">
+			<v:textRect cx="-12.9134" cy="579.636" width="40" height="17.6036"/>
+			<path d="M0 580.56 L-27.09 580.56 L-27.09 346.7 L39.47 346.7 L39.47 362.44" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-17.6048" y="574.837" width="9.38287" height="9.59985" class="st11"/>
+			<text x="-17.6" y="582.04" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape76-115" v:mID="76" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-140.812)">
 			<title>動態連接器.76</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="601.817" width="40" height="17.6036"/>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="1.5828" y="597.017" width="11.0078" height="9.59985" class="st10"/>
-			<text x="1.58" y="604.22" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape78-120" v:mID="78" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-55.7725)">
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="1.5828" y="597.017" width="11.0078" height="9.59985" class="st11"/>
+			<text x="1.58" y="604.22" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape78-122" v:mID="78" v:groupContext="shape" v:layerMember="1" transform="translate(101.992,-55.7725)">
 			<title>動態連接器.78</title>
-			<path d="M7.09 580.56 L7.09 601.82 L63.78 601.82 L63.78 219.14 L7.09 219.14 L7.09 234.88" class="st8"/>
+			<path d="M7.09 580.56 L7.09 601.82 L-59.47 601.82 L-59.47 219.14 L7.09 219.14 L7.09 234.88" class="st9"/>
 		</g>
-		<g id="shape81-125" v:mID="81" v:groupContext="shape" v:layerMember="1" transform="translate(109.079,-523.489)">
+		<g id="shape81-127" v:mID="81" v:groupContext="shape" v:layerMember="1" transform="translate(109.079,-523.489)">
 			<title>動態連接器.81</title>
-			<path d="M0 580.56 L0 601.82 L113.39 601.82 L113.39 617.56" class="st8"/>
+			<path d="M0 580.56 L0 601.82 L113.39 601.82 L113.39 617.56" class="st9"/>
 		</g>
-		<g id="shape83-130" v:mID="83" v:groupContext="shape" v:layerMember="1" transform="translate(215.378,-438.45)">
+		<g id="shape83-132" v:mID="83" v:groupContext="shape" v:layerMember="1" transform="translate(215.378,-438.45)">
 			<title>動態連接器.83</title>
-			<path d="M7.09 580.56 L7.09 617.56" class="st8"/>
+			<path d="M7.09 580.56 L7.09 617.56" class="st9"/>
 		</g>
-		<g id="shape84-135" v:mID="84" v:groupContext="shape" v:layerMember="1" transform="translate(215.378,-353.41)">
+		<g id="shape84-137" v:mID="84" v:groupContext="shape" v:layerMember="1" transform="translate(215.378,-353.41)">
 			<title>動態連接器.84</title>
-			<path d="M7.09 580.56 L7.09 601.82 L63.78 601.82 L63.78 431.74 L7.09 431.74 L7.09 447.48" class="st8"/>
+			<path d="M7.09 580.56 L7.09 601.82 L-40.61 601.82 L-40.61 431.74 L7.09 431.74 L7.09 447.48" class="st9"/>
 		</g>
-		<g id="group85-140" transform="translate(69.6063,-55.7725)" v:mID="85" v:groupContext="group">
+		<g id="group85-142" transform="translate(69.6063,-55.7725)" v:mID="85" v:groupContext="group">
 			<title>工作表.85</title>
-			<g id="shape30-141" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-467.717)">
+			<g id="shape30-143" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-467.717)">
 				<title>開始/結束</title>
 				<desc>Start</desc>
 				<v:custProps>
@@ -658,9 +678,9 @@
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="566.384" width="70.87" height="28.3465"/>
 				<path d="M14.17 580.56 L56.69 580.56 A14.1732 14.1732 -180 0 0 56.69 552.21 L14.17 552.21 A14.1732 14.1732 -180 1
-							 0 14.17 580.56 Z" class="st1"/>
-				<text x="27.61" y="568.78" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Start</text>			</g>
-			<g id="shape45-144" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-297.638)">
+							 0 14.17 580.56 Z" class="st2"/>
+				<text x="27.61" y="568.78" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Start</text>			</g>
+			<g id="shape45-146" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-297.638)">
 				<title>決策</title>
 				<desc>Event: tab onUpdated</desc>
 				<v:custProps>
@@ -687,10 +707,10 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="559.297" width="59.06" height="31.8898"/>
-				<path d="M0 559.3 L35.43 538.04 L70.87 559.3 L35.43 580.56 L0 559.3 Z" class="st1"/>
-				<text x="18.91" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Event: tab <tspan
-							x="17.11" dy="1.2em" class="st5">onUpdated</tspan></text>			</g>
-			<g id="shape52-148" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(-1.59872E-14,-85.0394)">
+				<path d="M0 559.3 L35.43 538.04 L70.87 559.3 L35.43 580.56 L0 559.3 Z" class="st2"/>
+				<text x="18.91" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Event: tab <tspan
+							x="17.11" dy="1.2em" class="st6">onUpdated</tspan></text>			</g>
+			<g id="shape52-150" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(-1.59872E-14,-85.0394)">
 				<title>決策.52</title>
 				<desc>If domain name match“forbidden_url”</desc>
 				<v:custProps>
@@ -718,11 +738,11 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="39.4724" cy="538.037" width="65.79" height="63.7795"/>
-				<path d="M0 538.04 L39.47 495.52 L78.94 538.04 L39.47 580.56 L0 538.04 Z" class="st1"/>
-				<text x="13.89" y="530.35" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>If domain name  <tspan
-							x="9.19" dy="1.246em" class="st5">match</tspan><tspan class="st3">“</tspan>forbidden<tspan x="29.07"
-							dy="1.261em" class="st5">_url</tspan><tspan class="st3">”</tspan></text>			</g>
-			<g id="shape57-155" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-382.677)">
+				<path d="M0 538.04 L39.47 495.52 L78.94 538.04 L39.47 580.56 L0 538.04 Z" class="st2"/>
+				<text x="13.89" y="530.35" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>If domain name  <tspan
+							x="9.19" dy="1.246em" class="st6">match</tspan><tspan class="st4">“</tspan>forbidden<tspan x="29.07"
+							dy="1.261em" class="st6">_url</tspan><tspan class="st4">”</tspan></text>			</g>
+			<g id="shape57-157" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-382.677)">
 				<title>子程序</title>
 				<desc>Get“forbidden_url”</desc>
 				<v:custProps>
@@ -750,13 +770,13 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="559.297" width="53.86" height="42.5197"/>
-				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56 Z" class="st6"/>
-				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56" class="st7"/>
-				<path d="M8.5 580.56 L8.5 538.04" class="st7"/>
-				<path d="M62.36 580.56 L62.36 538.04" class="st7"/>
-				<text x="11.64" y="556.78" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get<tspan
-							class="st3">“</tspan>forbidde<tspan x="22.93" dy="1.261em" class="st5">n_url</tspan><tspan class="st3">”</tspan></text>			</g>
-			<g id="shape66-164" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-212.598)">
+				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56 Z" class="st7"/>
+				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56" class="st8"/>
+				<path d="M8.5 580.56 L8.5 538.04" class="st8"/>
+				<path d="M62.36 580.56 L62.36 538.04" class="st8"/>
+				<text x="11.64" y="556.78" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get<tspan
+							class="st4">“</tspan>forbidde<tspan x="22.93" dy="1.261em" class="st6">n_url</tspan><tspan class="st4">”</tspan></text>			</g>
+			<g id="shape66-166" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,-212.598)">
 				<title>子程序.66</title>
 				<desc>Get domain name</desc>
 				<v:custProps>
@@ -784,13 +804,13 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="559.297" width="53.86" height="42.5197"/>
-				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56 Z" class="st6"/>
-				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56" class="st7"/>
-				<path d="M8.5 580.56 L8.5 538.04" class="st7"/>
-				<path d="M62.36 580.56 L62.36 538.04" class="st7"/>
-				<text x="16.33" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get <tspan
-							class="st5" v:langID="1033">domain </tspan><tspan x="26.23" dy="1.2em" class="st5" v:langID="1033">name</tspan></text>			</g>
-			<g id="shape75-172" v:mID="75" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,0)">
+				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56 Z" class="st7"/>
+				<path d="M0 580.56 L70.87 580.56 L70.87 538.04 L0 538.04 L0 580.56" class="st8"/>
+				<path d="M8.5 580.56 L8.5 538.04" class="st8"/>
+				<path d="M62.36 580.56 L62.36 538.04" class="st8"/>
+				<text x="16.33" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Get <tspan
+							class="st6" v:langID="1033">domain </tspan><tspan x="26.23" dy="1.2em" class="st6" v:langID="1033">name</tspan></text>			</g>
+			<g id="shape75-174" v:mID="75" v:groupContext="shape" v:layerMember="0" transform="translate(4.03937,0)">
 				<title>程序.75</title>
 				<desc>Redirect the tab to warn page</desc>
 				<v:custProps>
@@ -817,10 +837,10 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="559.297" width="70.87" height="42.5197"/>
-				<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st1"/>
-				<text x="4.88" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Redirect the tab to <tspan
-							x="18.37" dy="1.2em" class="st5">warn page</tspan></text>			</g>
-			<g id="shape80-176" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(117.425,-382.677)">
+				<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st2"/>
+				<text x="4.88" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Redirect the tab to <tspan
+							x="18.37" dy="1.2em" class="st6">warn page</tspan></text>			</g>
+			<g id="shape80-178" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(117.425,-382.677)">
 				<title>決策.80</title>
 				<desc>Event: icon clicked</desc>
 				<v:custProps>
@@ -847,10 +867,10 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="559.297" width="59.06" height="31.8898"/>
-				<path d="M0 559.3 L35.43 538.04 L70.87 559.3 L35.43 580.56 L0 559.3 Z" class="st1"/>
-				<text x="17.45" y="556.9" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Event: icon <tspan
-							x="24.3" dy="1.2em" class="st5">clicked</tspan></text>			</g>
-			<g id="shape82-180" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(117.425,-297.638)">
+				<path d="M0 559.3 L35.43 538.04 L70.87 559.3 L35.43 580.56 L0 559.3 Z" class="st2"/>
+				<text x="17.45" y="556.9" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Event: icon <tspan
+							x="24.3" dy="1.2em" class="st6">clicked</tspan></text>			</g>
+			<g id="shape82-182" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(117.425,-297.638)">
 				<title>程序.82</title>
 				<desc>Open new tab and direct to options page</desc>
 				<v:custProps>
@@ -877,9 +897,9 @@
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="559.297" width="70.87" height="42.5197"/>
-				<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st1"/>
-				<text x="5.45" y="552.1" class="st4" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Open new tab and <tspan
-							x="8.5" dy="1.2em" class="st5">direct to options </tspan><tspan x="27.54" dy="1.2em" class="st5">page</tspan></text>			</g>
+				<rect x="0" y="538.037" width="70.8661" height="42.5197" class="st2"/>
+				<text x="5.45" y="552.1" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Open new tab and <tspan
+							x="8.5" dy="1.2em" class="st6">direct to options </tspan><tspan x="27.54" dy="1.2em" class="st6">page</tspan></text>			</g>
 		</g>
 	</g>
 </svg>
