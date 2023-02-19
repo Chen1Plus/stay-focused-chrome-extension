@@ -1,4 +1,4 @@
-@import "third-party";
+@import "./scss/third-party";
 
 $gray-1: #f9f9f9;
 $gray-2: #f0f0f0;
@@ -129,4 +129,11 @@ $green-3: #357c38;
 
 .warn-text {
   color: red;
+}
+
+.ban_select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
 }
