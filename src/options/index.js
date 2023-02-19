@@ -1,5 +1,5 @@
-import "./scss/bootstrap-custom.scss";
-import "./scss/main.scss";
+import "./bootstrap-custom.scss";
+import "./main.scss";
 import * as html_modify from "./js/html_modify";
 import * as array_operate from "./js/array_operate";
 
@@ -37,7 +37,12 @@ chrome.storage.sync.get(null, (items) => {
         alert("此網站已在名單中！！");
       } else {
         blacklist_array.push(url);
-        html_modify.show_list("black", blacklist_array);
+        let i = blacklist_array.length - 1;
+        if (i == 0) {
+          html_modify.show_list("black", blacklist_array);
+        } else {
+          html_modify.add_list_item("blacklist_showed", "b" + i, url);
+        }
       }
     }
   });
@@ -48,7 +53,12 @@ chrome.storage.sync.get(null, (items) => {
         alert("此網站已在名單中！！");
       } else {
         whitelist_array.push(url);
-        html_modify.show_list("white", whitelist_array);
+        let i = whitelist_array.length - 1;
+        if (i == 0) {
+          html_modify.show_list("white", whitelist_array);
+        } else {
+          html_modify.add_list_item("whitelist_showed", "w" + i, url);
+        }
       }
     }
   });
