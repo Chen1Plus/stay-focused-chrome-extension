@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Stay Focused",
   "description": "A tool helps you stay focused. It will stop you opening entertaining websites.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "icons": {
     "16": "./img/icon-16.png",
     "32": "./img/icon-32.png",
